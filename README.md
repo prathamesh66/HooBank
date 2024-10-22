@@ -1,6 +1,6 @@
 # Bank Modern App
 
-A modern banking application clone that provides users with a seamless interface for banking operations. The app allows users to navigate through various banking features and services, simulating a real banking experience.
+A modern banking application clone that provides users with a seamless interface for banking operations. The app allows users to navigate through various banking features and services, simulating a real banking experience..
 
 ## Demo
 
